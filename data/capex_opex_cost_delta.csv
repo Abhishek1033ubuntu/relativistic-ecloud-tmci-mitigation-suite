@@ -1,0 +1,7 @@
+Parameter,Baseline_1_9K_NbTi,Upgraded_50K_REBCO,Net_Delta
+Cryogenic Plant CAPEX (27 km ring),$1.1B - $1.4B,$0.35B - $0.45B,-65% to -70% Cryo CAPEX
+Magnet & Conductor Tape CAPEX,$1.8B,$2.6B - $3.2B,+45% to +75% Magnet CAPEX
+Beam Screen Liner & Clearing Hardware,$180M,$240M - $290M,+35% to +60% Liner CAPEX
+Annual Cryogenic Wall-Plug OPEX,45-55 MW (~$35M-$45M/yr),12-16 MW (~$10M-$13M/yr),-70% Annual Cooling OPEX
+Carnot Thermodynamic Efficiency Penalty,750-900 W/W @ 1.9 K,15-22 W/W @ 50 K,~40x Thermodynamic Gain
+Net 20-Year Lifecycle TCO Delta,Baseline TCO,15% to 22% Lower TCO,-15% to -22% Net 20-Yr TCO

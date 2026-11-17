@@ -1,0 +1,7 @@
+Layer,Subsystem,Material_Class,Primary_Role,SEY_Max,Operating_Temp_K,Key_Metric
+1,Inner Vacuum Wall / Beam Screen Liner,Porous sp2-Carbon / Ti3C2Tx MXene Heterolayer,Intrinsic multipacting suppression & low surface impedance,1.01,50.0,SEY_max <= 1.02; sigma_elec > 1e6 S/m
+2,Thermal Barrier & Structural Substrate,Cu-Cr-Zr / Nano-Crystalline Diamond-Copper Composite,Rapid lateral heat extraction & Lorentz hoop rigidity,1.05,50.0,Thermal cond > 800 W/m*K; Yield > 600 MPa
+3,Primary High-Field & Gradient Coils,Doped REBCO (REBa2Cu3O7-d) HTS Tape,20.5 T bending & high-gain variable-step gradient without LHe,,50.0,Tc = 93 K; Jc > 3 kA/mm^2 @ 20 T
+4,Active Clearing Electrode Strips,Boron-Doped Diamond (BDD) Insulated Electrodes,Residual photoelectron clearing during 25 ns bunch gaps,1.02,50.0,Dielectric breakdown > 10 MV/cm
+5,Radiation & Neutron Shielding Jacket,B4C-Dispersed Tungsten-Copper Matrix (W-Cu-B4C),Synchrotron photon & hadron shower attenuation,,50.0,Rad hardness score 0.97
+6,Cryocooler Thermal Bus (He-Free),High-Purity Annealed Pyrolytic Graphite (APG) Straps,Direct thermal conduction to 50 K pulse-tube cryocoolers,,50.0,In-plane kappa ~ 1700 W/m*K
