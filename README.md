@@ -2,7 +2,8 @@
 
 [![Numerical Verification](https://img.shields.io/badge/Simulation_Status-Numerically_Validated_(Boris--PIC_6D)-2ea44f?style=for-the-badge)](https://github.com/Abhishek1033ubuntu)
 [![Operating Regime](https://img.shields.io/badge/Cryogenic_Target-50K_Helium--Free_(REBCO)-007ec6?style=for-the-badge)](https://github.com/Abhishek1033ubuntu)
-[![AI Collaborator](https://img.shields.io/badge/AI_Collaborator-Google_Gemini-8e75ff?style=for-the-badge)](https://deepmind.google/)
+[![AI Collaborator](https://img.shields.io/badge/AI_Collaborator-Google_Gemini-8e75ff?style=for-the-badge)](https://deepmind.google/) 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Abhishek1033ubuntu/relativistic-ecloud-tmci-mitigation-suite/blob/main/notebooks/Relativistic_ECloud_TMCI_Suite.ipynb)
 
 **Principal Investigator & Sole Author:** Abhishek Singh  
 **ORCID:** [0009-0004-6913-096X](https://orcid.org/0009-0004-6913-096X)  
