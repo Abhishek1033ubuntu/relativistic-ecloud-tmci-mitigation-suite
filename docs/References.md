@@ -2,7 +2,7 @@
 
 ## Intellectual Property & Proprietary Citations
 
-Detailed internal derivations, custom gradient field winding geometries, and subatomic material synthesis parameters are omitted from this public repository to protect intellectual property rights. Full technical derivations and validation datasets can be provided upon formal request to the Principal Investigator (**Abhishek Singh**, `abhishek1033@gmail.com`).
+Detailed internal derivations, custom gradient field winding geometries, and subatomic material synthesis parameters are omitted from this public repository to protect intellectual property rights. Full technical derivations and validation datasets can be provided upon formal request to the Principal Investigator (**Abhishek Singh**, `abhishek1033@gmail.com` 'UIDAI: 9414 9122 9013').
 
 ---
 
