@@ -1,0 +1,36 @@
+{
+  "champion_material": {
+    "name": "Champion Stack (sp2-C/Diamond Liner + Doped REBCO @ 50K He-Free)",
+    "Tc_K": 93.0,
+    "op_temp_K": 50.0,
+    "B_max_T": 20.5,
+    "gradient_gain_factor": 1.85,
+    "sey_max": 1.01,
+    "thermal_margin_W_m": 45.0,
+    "rad_hardness_score": 0.97,
+    "FoM": 98.69
+  },
+  "benchmarks": {
+    "baseline": {
+      "label": "Baseline (SEY=1.35, 1.9K)",
+      "final_centroid_mm": 0.4277,
+      "final_rms_mm": 0.1287,
+      "peak_residual_ecloud_m3": 5000000000000.0,
+      "peak_relativistic_beta": 0.999999992
+    },
+    "m1_m2": {
+      "label": "M1+M2 Only (Champion BOM, No Gap)",
+      "final_centroid_mm": 0.0352,
+      "final_rms_mm": 0.0627,
+      "peak_residual_ecloud_m3": 5410000000.0,
+      "peak_relativistic_beta": 0.999999993
+    },
+    "m1_m2_m3": {
+      "label": "M1+M2+M3 (Period Gap + Gated Damper)",
+      "final_centroid_mm": 0.0092,
+      "final_rms_mm": 0.0437,
+      "peak_residual_ecloud_m3": 2120000000.0,
+      "peak_relativistic_beta": 0.999999991
+    }
+  }
+}
