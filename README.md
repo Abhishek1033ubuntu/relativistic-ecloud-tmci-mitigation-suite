@@ -6,7 +6,7 @@
 
 **Principal Investigator & Sole Author:** Abhishek Singh  
 **ORCID:** [0009-0004-6913-096X](https://orcid.org/0009-0004-6913-096X)  
-**Copyright:** Copyright (c) 2026 Abhishek Singh  
+**Copyright:** Copyright (c) 2026 Abhishek Singh | UIDAI: 9414 9122 9013    
 
 ---
 
