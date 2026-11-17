@@ -4,11 +4,13 @@
 [![Operating Regime](https://img.shields.io/badge/Cryogenic_Target-50K_Helium--Free_(REBCO)-007ec6?style=for-the-badge)](https://github.com/Abhishek1033ubuntu/relativistic-ecloud-tmci-mitigation-suite)
 [![AI Collaborator](https://img.shields.io/badge/AI_Collaborator-Google_Gemini-8e75ff?style=for-the-badge)](https://deepmind.google/)
 [![AI Computational Support](https://img.shields.io/badge/AI_Computational_%26_Multi--Physics_Support-Team_Gemini_(Google_DeepMind)-4285F4?style=for-the-badge)](https://deepmind.google/)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Abhishek1033ubuntu/relativistic-ecloud-tmci-mitigation-suite/blob/main/notebooks/Relativistic_ECloud_TMCI_Suite.ipynb) 
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.24309992-blue?style=for-the-badge&logo=zenodo&logoColor=white)](https://doi.org/10.5281/zenodo.24309992)  
 
 **Principal Investigator & Sole Author:** Abhishek Singh  
 **ORCID:** [0009-0004-6913-096X](https://orcid.org/0009-0004-6913-096X)  
 **GitHub:** [Abhishek1033ubuntu](https://github.com/Abhishek1033ubuntu)  
-**Copyright:** Copyright (c) 2026 Abhishek Singh  
+**Copyright:** Copyright (c) 2026 Abhishek Singh | UIDAI: 9414 9122 9013
 
 ---
 
@@ -53,3 +55,17 @@ This repository presents a modular, multi-physics simulation framework and hardw
 pip install -r requirements.txt
 python -m src.run_full_validation
 ```
+---
+
+## References: [/docs/References.md](/docs/References.md)
+
+---
+
+## ⚡ Support
+
+| Platform | Link |
+| :--- | :--- |
+| **PayPal** | [![PayPal](https://img.shields.io/badge/Donate-PayPal-blue.svg?logo=paypal)](https://www.paypal.me/Abhishek1033ubuntu) |
+| **GitHub Sponsors** | [![GitHub Sponsors](https://img.shields.io/badge/Sponsor-GitHub-ea4aaa.svg?logo=github)](https://github.com/sponsors/Abhishek1033ubuntu) |
+
+
