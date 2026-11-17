@@ -57,7 +57,7 @@ python -m src.run_full_validation
 ```
 ---
 
-## References: [/docs/References.md](/docs/References.md)
+## [References & Intellectual Property Notice](/docs/References.md)
 
 ---
 
