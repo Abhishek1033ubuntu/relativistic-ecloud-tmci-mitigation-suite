@@ -10,7 +10,7 @@
 **Principal Investigator & Sole Author:** Abhishek Singh  
 **ORCID:** [0009-0004-6913-096X](https://orcid.org/0009-0004-6913-096X)  
 **GitHub:** [Abhishek1033ubuntu](https://github.com/Abhishek1033ubuntu)  
-**Copyright:** Copyright (c) 2026 Abhishek Singh | UIDAI: 9414 9122 9013
+**Copyright:** (c) 2026 Abhishek Singh | UIDAI: 9414 9122 9013
 
 ---
 
